@@ -1,0 +1,11 @@
+Flask
+mysql-connector-python
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+requests
+tabula-py
+PyMuPDF
+PyPDF2
