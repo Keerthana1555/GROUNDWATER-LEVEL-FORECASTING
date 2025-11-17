@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYTICS-OF-GROUNDWATER-LEVEL-FORECASTING
+The project utilizes a Long Short-Term Memory network (deep learning model), to provide accurate groundwater level forecasts by integrating historical groundwater data. This approach addresses the limitations of traditional statistical models which often fail to handle the complex, nonlinear, and seasonal dynamics inherent in groundwater systems. 
